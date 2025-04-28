@@ -1,0 +1,561 @@
+.gmail {
+    margin: 0px 0px 0px 850px;
+    width: 40px;
+    height: 38px;
+}
+
+.facebook {
+
+    width: 40px;
+    height: 40px;
+}
+
+.whatsapp {
+
+    width: 40px;
+    height: 40px;
+}
+
+.x {
+    width: 40px;
+    height: 40px;
+}
+
+.instagram {
+
+    width: 40px;
+    height: 40px;
+}
+
+.logo {
+    width: 100px;
+    height: 80px;
+    margin: -88px 2px 0px 0px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+
+    justify-content: center;
+    padding: 10px 0;
+    background: linear-gradient(to right, #e88649e4, #D2B48C);
+
+
+    margin: 0px 0px 100px 0px;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 350px;
+    border-radius: 8px;
+
+}
+
+nav li {
+    margin: 0 15px;
+    padding-left: 30px;
+}
+
+nav a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #000;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    margin: 40px;
+}
+
+.book-image img {
+    width: 400px;
+    height: 500px;
+    margin: -200px 0px 0px 0px;
+    border-radius: 5px;
+    margin-left: -10px;
+
+}
+
+.book-text {
+    margin-left: 100px;
+    margin-bottom: 420px;
+    margin-top: -10px;
+    font-size: 28px;
+    font-weight: bold;
+    width: 350px;
+    word-spacing: 5px;
+    line-height: 1.5;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: underline;
+}
+
+.bookname {
+    width: 750px;
+    height: 350px;
+    margin-left: -180px;
+    margin-top: -20px;
+    display: inline-block
+}
+
+.caption {
+    margin-top: ;
+}
+
+.cls {
+    font-size: 24px;
+    font-family: cursive;
+    text-align: justify;
+    margin-left: -600px;
+    padding: 10px;
+}
+
+body {
+    background-image: url('images/lenovo\ back.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 100%;
+
+}
+
+.learnbtn {
+    width: 200px;
+    height: 50px;
+    margin-top: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    background-color: burlywood;
+    border: 8px solid rgb(237, 106, 106);
+    border-radius: 4px;
+    margin-right: -10px;
+    text-decoration: none;
+}
+
+.learnbtn:hover {
+    background-color: rgb(237, 106, 106);
+}
+
+#books {
+    text-align: center;
+    background: linear-gradient(to right, #f7a64e, #e6cd7b);
+    color: #000;
+
+}
+
+.line1 {
+    width: 110%;
+    height: 2px;
+    background-image: ;
+
+
+}
+
+.box1 {
+    border: black 2px solid;
+    width: 200px;
+    height: 350px;
+    text-align: center;
+    display: inline-block;
+    padding: 10px;
+    margin: 15px 0px 0px 70px;
+    border-radius: 10px;
+    background-image: url(images/brownbooks.png);
+    color: white;
+
+}
+
+.box1:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 8px 20px rgba(44, 43, 43, 0.2);
+}
+
+.box2:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 8px 20px rgba(44, 43, 43, 0.2);
+}
+
+.adventure {
+    width: 150px;
+    height: 160px;
+}
+
+.box2 {
+    border: black 2px solid;
+    width: 200px;
+    height: 350px;
+    text-align: center;
+    display: inline-block;
+    padding: 10px;
+    margin: 45px 0px 0px 70px;
+    border-radius: 10px;
+    background-image: url(images/brownbooks.png);
+    color: white;
+}
+
+.book1 {
+    width: 100px;
+    height: 30px;
+    border: solid black 2px;
+    background-color: rgb(126, 198, 243);
+    border-radius: 8px;
+}
+
+.book1:hover {
+    background-color: rgb(44, 131, 231);
+}
+
+.box1 img {
+    border-radius: 3px;
+}
+
+.box2 img {
+    border-radius: 3px;
+}
+
+.author {
+    opacity: 0.6;
+}
+
+.webpagecover {
+    width: 100%;
+    height: 300px;
+    border-radius: 10px;
+}
+
+.bquote {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+.articles {
+    text-align: center;
+    background: linear-gradient(to right, #f7a64e, #e6cd7b);
+    
+    color: #000;
+
+}
+
+.boxcontainer {
+    position: relative;
+    width: 60%;
+    height: 300px;
+
+
+}
+
+.article {
+    width: 520px;
+    height: 250px;
+    text-align: center;
+    border-radius: 7px;
+    position: absolute;
+    padding: 10px;
+
+}
+
+.article1 {
+    top: 0;
+    left: 0;
+    z-index: 2;
+    border: 1px solid rgb(243, 216, 119);
+    z-index: 1;
+    background: linear-gradient(to right, #874c43, #e1b574);
+}
+
+.article2 {
+    top: 220px;
+    left: 360px;
+    border: 0px solid rgb(243, 216, 119);
+    z-index: 2;
+    background: linear-gradient(to right, rgb(151, 98, 66), rgb(212, 212, 56));
+}
+
+.article3 {
+    top: 0px;
+    left: 705px;
+    border: 1px solid rgb(243, 216, 119);
+    z-index: 1;
+
+    background: linear-gradient(to right, #874c43, #e1b574);
+
+}
+
+.article4 {
+    top: 430px;
+    left: 0px;
+    border: 1px solid rgb(243, 216, 119);
+    z-index: 1;
+    background: linear-gradient(to right, #874c43, #e1b574);
+}
+
+.article5 {
+    top: 430px;
+    left: 705px;
+    border: 1px solid rgb(243, 216, 119);
+    z-index: 1;
+    background: linear-gradient(to right, #874c43, #e1b574);
+
+}
+
+.article p {
+    font-size: 16px;
+    font-family: cursive;
+
+}
+
+.author {
+    opacity: 0.6;
+    font-size: 14px;
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.article5 h2 {
+    margin-left: 5pc;
+}
+
+.article4 h2 {
+    margin-right: 5pc;
+}
+
+.article:hover {
+    transform: translateY(-12px);
+    box-shadow: 0 8px 20px rgba(44, 43, 43, 0.2);
+}
+
+.window {
+    display: flex;
+}
+
+.bauthor {
+    text-align: center;
+    background: linear-gradient(to right, #f7a64e, #e6cd7b);
+    color: #000;
+    margin-top: 450px;
+}
+
+.shakesimg {
+    width: 230px;
+    height: 180px;
+    border-radius: 35%;
+    border: black solid 0px;
+    text-align: center;
+}
+
+.shakespara {
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+    padding: 5px;
+    border-radius: 3px;
+
+}
+
+.shakespara:hover {
+    transform: translateY(-12px);
+    box-shadow: 0 8px 20px rgba(18, 13, 13, 0.2);
+}
+
+.shakespara2:hover {
+    transform: translateY(-12px);
+    box-shadow: 0 8px 20px rgba(18, 13, 13, 0.2);
+}
+
+.shakespara3:hover {
+    transform: translateY(-12px);
+    box-shadow: 0 8px 20px rgba(18, 13, 13, 0.2);
+}
+
+.shakespara4:hover {
+    transform: translateY(-12px);
+    box-shadow: 0 8px 20px rgba(18, 13, 13, 0.2);
+}
+
+.shakespara5:hover {
+    transform: translateY(-12px);
+    box-shadow: 0 8px 20px rgba(18, 13, 13, 0.2);
+}
+
+
+.shakespara6:hover {
+    transform: translateY(-12px);
+    box-shadow: 0 8px 20px rgba(18, 13, 13, 0.2);
+}
+
+
+.shakespara7:hover {
+    transform: translateY(-12px);
+    box-shadow: 0 8px 20px rgba(18, 13, 13, 0.2);
+}
+
+.william {
+    color: rgb(84, 72, 72);
+
+}
+
+.Feedback {
+    text-align: center;
+    background: linear-gradient(to right, #f7a64e, #e6cd7b);
+    color: #000;
+}
+
+.feedone {
+    color: rgb(51, 64, 103);
+    text-align: center;
+
+}
+
+.rahul {
+    margin-left: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(3, 49, 45);
+    border: 1px black dotted;
+    width: 180px;
+    height: 20px;
+    padding: 3px;
+}
+
+.rahimg {
+    width: 40px;
+    height: 20px;
+
+    margin-left: 50px;
+}
+
+.rahul-contain {
+    display: flex;
+    align-items: center;
+    margin-left: 70px;
+
+}
+
+.feedpara1 {
+    text-align: center;
+    margin-left: 200px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.contact {
+    text-align: center;
+    background: linear-gradient(to right, #f7a64e, #e6cd7b);
+    color: #000;
+}
+
+.cont1 {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#comment {
+    width: 300px;
+    height: 200px;
+    text-align: start;
+}
+
+.submit {
+    padding: 5px;
+    width: 70px;
+    height: 35px;
+    border-radius: 2px;
+    background-color: rgb(97, 97, 222);
+}
+
+.submit:hover {
+    background-color: royalblue;
+}
+.communi1 {
+    width: 280px;
+    height: 230px;
+    text-align: center;
+    border-radius: 7px;
+    position: absolute;
+    padding: 10px;
+z-index: 1;
+border: 1px solid black;
+background-color: #e6cd7b;
+}
+
+.communi2 {
+    top: 10;
+    left: 0;
+    margin-left: 250px;
+    margin-top: -40px;
+    z-index: 3;
+    width: 280px;
+    height: 230px;
+    border: black solid 1px;
+    background-color: rgb(119, 236, 209);
+    border-radius: 7px;
+    
+  
+}
+
+.communi3 {
+    width: 280px;
+    height: 230px;
+    text-align: center;
+    border-radius: 7px;
+    position: absolute;
+    padding: 10px;
+    margin-left: 480px;
+    margin-top: -185px;
+z-index: 1;
+border: 1px solid black;
+background-color: #e078b3;
+}
+
+.communi4 {
+    top: 10;
+    left: 0;
+    margin-left: 750px;
+    margin-top: -230px;
+    z-index: 3;
+    width: 280px;
+    height: 230px;
+    border: black solid 1px;
+    background-color: rgb(211, 244, 126);
+    border-radius: 7px;
+  
+}
+.communi5 {
+    width: 260px;
+    height: 230px;
+    text-align: center;
+    border-radius: 7px;
+    
+    padding: 10px;
+    margin-left: 980px;
+    margin-top: -190px;
+z-index: 5;
+border: 1px solid black;
+background-color: #f3aa86;
+}
+.communi p{
+    color:rgb(81, 57, 240);
+    font-family:serif;
+    font-size: 18px;
+}
+.communi1:hover{ 
+    transform: translateY(-12px);
+    box-shadow: 0 8px 20px rgba(8, 7, 7, 0.2,);
+}
+.communi2:hover{ 
+    transform: translateY(-12px);
+    box-shadow: 0 8px 20px rgba(8, 7, 7, 0.2);
+}
+.communi3:hover{ 
+    transform: translateY(-12px);
+    box-shadow: 0 8px 20px rgba(8, 7, 7, 0.2,);
+}
+.communi4:hover{ 
+    transform: translateY(-12px);
+    box-shadow: 0 8px 20px rgba(8, 7, 7, 0.2);
+}.communi5:hover{ 
+    transform: translateY(-12px);
+    box-shadow: 0 8px 20px rgba(8, 7, 7, 0.2,);
+}
